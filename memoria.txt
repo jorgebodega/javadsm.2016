@@ -1,0 +1,13 @@
+Fichero de memoria de la primera práctica grupal.
+
+Dudas:
+
+¿Se valora la correcta utilización de código, reutilizando secciones
+iguales para crear funciones auxiliares?
+
+¿Se pueden definir y utilizar nuevas funciones, como la función equals para 
+poder reutilizar métodos de LinkedList (contains, remove,...) que utilizan
+métodos equals heredados?
+
+¿Como de correcto es lo que tenemos hecho en asociar y desasociar, y como
+de correcto es lo que tenemos comentado en esos métodos, cual deberíamos usar?
